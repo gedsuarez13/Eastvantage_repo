@@ -1,0 +1,10 @@
+emailLoginField = "//input[@name='email']"
+passwordLoginField = "//input[@name='password']"
+loginButton = "//*[@id='tab-login']/form/button"
+lostPasswordLink = "//a[@href='#tab-recovery-ask']"
+emailRecoverField = "//*[@id='tab-recovery-ask']/form/div/input"
+recoverMyAccessButton = "//*[@id='tab-recovery-ask']/form/button"
+
+emailFieldValidation = "//*[@id='tab-login']/form/div[1]/span"
+passwordFieldValidation = "//*[@id='tab-login']/form/div[2]/span"
+emailFieldResetValidation = "//*[@id='tab-recovery-ask']/form/div/span"
