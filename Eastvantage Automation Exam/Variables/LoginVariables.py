@@ -1,4 +1,4 @@
-browser = 'chrome'
+browser = 'firefox'
 url = 'https://login.optimyapp.com/'
 
 fieldIsRequiredMessage = "This field is required."
